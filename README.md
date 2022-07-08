@@ -1,4 +1,4 @@
-### Hi, Im carlos 👋
+### Hi, Im Carlos 👋
 
 ![1656722639085](https://user-images.githubusercontent.com/51061057/178053371-f37a7dc7-be9c-4bf9-994d-4919a81e017f.jpg)
 
@@ -9,7 +9,8 @@ const carlos_escorcia = {
    code: [Javascript, HTML, CSS, Python, Java, R],
    technologies: {
       frontEnd: {
-         js: ["React", "Flask"]
+         js: ["React"],
+	 python: ["Flask"],
       },
       backEnd: {
          Python: ["Flask"],
