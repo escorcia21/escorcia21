@@ -5,7 +5,6 @@
 ```javascript
 
 const carlos_escorcia = {
-   pronouns: "he" | "him",
    code: [Javascript, HTML, CSS, Python, Java, R],
    technologies: {
       frontEnd: {
